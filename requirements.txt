@@ -1,0 +1,9 @@
+cat > requirements.txt << 'EOF'
+torch
+transformers
+pandas
+numpy
+scikit-learn
+nltk
+tqdm
+EOF
